@@ -1,0 +1,109 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/SI_N64_PilotWings64_image1600w.jpg');
+  background-position: 50% 50%, 48.92% 100%;
+  background-size: 110%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 434px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 346px;
+  height: 300px;
+  margin: 145px auto 0 -1028px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-family: RoSpritendoSemiboldBeta-vmVwZ;
+  margin: -264px 70px 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 574px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 358px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 646px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 274px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 613px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 206px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 597px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 130px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 628px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 298px;
+  min-height: 299px;
+  height: auto;
+  margin: 67px auto 60px 32px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: solid;
+  margin: 13px auto 0;
+  padding: 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 219px;
+  height: 190px;
+  margin: 13px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}@font-face {
+  font-family: 'RoSpritendoSemiboldBeta-vmVwZ';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/RoSpritendoSemiboldBeta-vmVwZ.otf);
+}
